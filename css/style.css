@@ -8,6 +8,7 @@ body {
   padding: 20px 0;
   text-align: center;
 }
+
 h2 {
   padding: 20px 0px;
   font-size: 28px;
@@ -24,10 +25,12 @@ p {
   margin: 10px 0px;
   cursor: pointer;
 }
+
 input {
   font-size: 18px;
   padding: 4px;
 }
+
 .btn {
   margin-top: 4px;
   padding: 6px 10px;
@@ -62,17 +65,18 @@ input {
   background-color: #87ceeb;
 }
 
-.add-remove{
+.add-remove {
   background-color: #008080;
   border: 1px solid #000;
   width: 320px;
   padding: 50px;
 }
 
-.change-bg{
+.change-bg {
   background-color: #ff6347;
 }
-.remove-div{
+
+.remove-div {
   margin-top: 20px;
   border: 1px solid #000;
   padding: 50px;
