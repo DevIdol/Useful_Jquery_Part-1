@@ -5,7 +5,7 @@ $(document).ready(function () {
   $(".click").click(function () {
     alert("paragraph was clicked");
   });
-  $(".db-click").click(function () {
+  $(".db-click").dblclick(function () {
     alert("paragraph was double clicked");
   });
   $(".mouse-enter").mouseenter(function () {
